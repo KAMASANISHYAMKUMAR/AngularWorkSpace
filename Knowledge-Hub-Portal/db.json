@@ -1,0 +1,130 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "title": "Technology",
+        "description": "Articles and news about technology trends and innovations."
+      },
+      {
+        "id": 2,
+        "title": "Science",
+        "description": "Latest scientific discoveries and research findings."
+      },
+      {
+        "id": 3,
+        "title": "Business",
+        "description": "Insights, analysis, and news from the business world."
+      },
+      {
+        "id": 4,
+        "title": "Health",
+        "description": "Information on health, wellness, and medical advancements."
+      },
+      {
+        "id": 5,
+        "title": "Travel",
+        "description": "Guides, tips, and stories for travelers."
+      },
+      {
+        "id": 6,
+        "title": "Food",
+        "description": "Recipes, cooking tips, and food-related news."
+      },
+      {
+        "id": 7,
+        "title": "Sports",
+        "description": "Updates and analysis on sports events."
+      },
+      {
+        "id": 8,
+        "title": "Fashion",
+        "description": "Trends, styles, and fashion news."
+      },
+      {
+        "id": 9,
+        "title": "Art",
+        "description": "Inspiring artworks, exhibitions, and artistic creations."
+      },
+      {
+        "id": 10,
+        "title": "Music",
+        "description": "News, reviews, and updates from the music world."
+      },
+      {
+        "id": 11,
+        "title": "Movies",
+        "description": "Reviews, trailers, and updates from the film industry."
+      },
+      {
+        "id": 12,
+        "title": "Books",
+        "description": "Recommendations, reviews, and news about books."
+      },
+      {
+        "id": 13,
+        "title": "Education",
+        "description": "Information and resources for learners and educators."
+      },
+      {
+        "id": 14,
+        "title": "Gaming",
+        "description": "News, reviews, and updates from the gaming world."
+      },
+      {
+        "id": 15,
+        "title": "Environment",
+        "description": "Updates and information about environmental issues."
+      },
+      {
+        "id": 16,
+        "title": "Automobiles",
+        "description": "Latest news and updates from the automotive industry."
+      },
+      {
+        "id": 17,
+        "title": "Pets",
+        "description": "Tips, advice, and stories for pet owners."
+      },
+      {
+        "id": 18,
+        "title": "Home & Garden",
+        "description": "Tips, DIY projects, and ideas for home improvement and gardening."
+      },
+      {
+        "id": 19,
+        "title": "Politics",
+        "description": "Updates and analysis on political events and developments."
+      },
+      {
+        "id": 20,
+        "title": "Finance",
+        "description": "News, tips, and analysis from the financial world."
+      },
+      {
+        "id": 21,
+        "title": "Photography",
+        "description": "Tips, techniques, and inspiration for photographers."
+      },
+      {
+        "id": 22,
+        "title": "Parenting",
+        "description": "Advice, tips, and stories for parents and caregivers."
+      },
+      {
+        "id": 23,
+        "title": "Fitness",
+        "description": "Workouts, tips, and advice for maintaining fitness."
+      },
+      {
+        "id": 24,
+        "title": "DIY",
+        "description": "Do-it-yourself projects and craft ideas."
+      },
+      {
+        "id": 25,
+        "title": "Technology",
+        "description": "Information on the latest technology trends and innovations."
+      }
+    ]
+  }
+  
